@@ -1,0 +1,2 @@
+1 - lokete - lokete123 - ./fotos/1-lokete.png
+2 - canibal - canibal123 - ./fotos/2-canibal.png
